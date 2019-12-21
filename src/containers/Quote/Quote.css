@@ -1,0 +1,12 @@
+.button_delete, .button_edit {
+  float: right;
+  margin-top: 5px;
+}
+.button_delete {
+  float: right;
+  margin-top: -1px;
+}
+
+.Quote {
+  margin-bottom: 10px;
+}
